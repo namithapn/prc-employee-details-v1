@@ -5,7 +5,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>9a7efc91-7cde-4ee4-8331-506cd2abf750</groupId>
 	<artifactId>prc-employee-details-v1</artifactId>
-	<version>1.0.0-SNAPSHOT</version>
+	<version>1.0.0</version>
 	<packaging>mule-application</packaging>
 	<name>prc-employee-details-v1</name>
 	<properties>
